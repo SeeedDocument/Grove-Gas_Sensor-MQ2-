@@ -6,7 +6,7 @@
 
 ###Change Log:
 
-**2016-7-5:** create repos by Jeremy (Jeremy.xiao@seeed.cc)
+**2016-7-6:** create repos by Jeremy (Jeremy.xiao@seeed.cc)
 
 
 --------
