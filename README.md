@@ -1,1 +1,1 @@
-# Grove-Gas_Sensor-MQ2-
+# Grove_Gas_Sensor_MQ2
