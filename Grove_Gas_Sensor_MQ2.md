@@ -1,12 +1,11 @@
 # Grove_Gas_Sensor_MQ2
-
+***
 ## Introduction
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_Gas_Sensor_MQ2/master/image/Twig-Gas_Sensor.bmp)
 
 The Grove - Gas Sensor(MQ2) module is useful for gas leakage detection (in home and industry). It is suitable for detecting H2, LPG, CH4, CO, Alcohol, Smoke or Propane. Due to its high sensitivity and fast response time, measurements can be taken as soon as possible. The sensitivity of the sensor can be adjusted by using the potentiometer.
 
-!!!Warning
 Note that The sensor value only reflects the approximated trend of gas concentration in a permissible error range, it DOES NOT represent the exact gas concentration. The detection of certain components in the air usually requires a more precise and costly instrument, which cannot be done with a single gas sensor. If your project is aimed at obtaining the gas concentration at a very precise level, then we do not recommend this gas sensor.
 
 [![Get one now](https://raw.githubusercontent.com/SeeedDocument/Grove_Gas_Sensor_MQ2/master/image/150px-Get_One_Now_Banner.png)](https://www.seeedstudio.com/item_detail.html?p_id=937)
@@ -22,11 +21,12 @@ Note that The sensor value only reflects the approximated trend of gas concentra
 
 |Item   |Parameter         |Min            |Typical     |Max       |Unit   |
 |:------|:-----------------|:--------------|:-----------|:---------|:------|
-|VCC    |	Working        |Voltage        |	4.9     |	5      | 5.1V  |
-|PH 	|Heating           |consumption    |	0.5	    |   800    |	 mW|
+|VCC    |Working   Voltage |       4.9    |	 5      |	5.1          | V  |
+|PH 	|Heating  consumption |  0.5  |	-	    |   800    |	 mW|
 |RL 	|Load resistance   |               | adjustable |          |       |	
 |RH	    |Heater resistance |-	           |33	        |          |	Ω  |	
 |Rs	    |Sensing resistance|3              |	        |	30     |	kΩ |
+
 
 ## Apllication Ideas
 
@@ -51,6 +51,7 @@ The output voltage from the Gas sensor increases when the concentration of gas i
 ## Getteing Started
 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_Gas_Sensor_MQ2/master/image/Read_Gas_Sensor_data_MQ2_MQ5.jpg)
+
 Connect the Grove - Gas Sensor(MQ2) to A0 port as shown in the above picture.
 
 ## Gas Detection:Basic Examples
